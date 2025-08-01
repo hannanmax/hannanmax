@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer and AI Innovator**
 
-Dynamic full stack developer with extensive experience in mobile and web application development, combined with cutting-edge expertise in Generative AI. I specialize in building scalable, high-performance applications and leveraging AI to create innovative, automated solutions. My focus is on driving technical excellence, integrating AI into real-world applications, and pushing the boundaries of what's possible in technology.
+I’m Hannan Max (legally Hannanahmad Shaikh), a tech entrepreneur, full-stack developer, and community builder based in Canada. As the Founder & CEO of North Cipher Valley Inc. and CTO of SettleInn, I lead the development of AI-driven solutions, scalable mobile apps, and digital products that solve real-world problems with innovation and impact. With extensive experience in full-stack development and Generative AI, I specialize in building high-performance applications and integrating AI to create automated, intelligent systems. Beyond startups, I support applied research and actively grow inclusive tech communities as a Google Developer Group (GDG) Organizer and Founder of GDG on Campus Cambrian, empowering 200+ students and professionals through mentorship, events, and collaboration. My journey is about pushing technology’s boundaries while making it accessible and impactful for everyone.
 
 ## What I Do
 
