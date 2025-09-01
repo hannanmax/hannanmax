@@ -110,6 +110,7 @@ CipherAura builds the next generation of AI-powered body cameras and a mobile-fi
 
 * **Cambrian College** — Postgrad: Mobile Application Development (4.0 GPA)
 * **Cambrian College** — Postgrad: Business Analytics (4.0 GPA)
+* UKA Tarsadia University — Bachelor: Computer Applications (9.24 GPA)
 * **Certifications:** ML/DL on GCP, IBM Data Science, Stanford ML, HackerRank Java (Basic), and more
 
 ---
