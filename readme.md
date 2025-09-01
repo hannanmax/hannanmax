@@ -25,7 +25,7 @@ Hannan Max (legally Hannanahmad Shaikh) is a Canadian tech entrepreneur, full-st
 
 ## Companies & Roles
 
-### North Cipher Valley Inc. — Founder & CEO (Sep 2024–Present)
+### North Cipher Valley Inc. - Founder & CEO (Sep 2024–Present)
 
 **Parent Company · Innovation Hub for AI, Mobile, and Smart Tech**
 North Cipher Valley incubates and scales AI-driven consumer solutions and IoT products, partnering with local businesses in Sudbury for websites, IT, and digital transformation.
@@ -42,7 +42,7 @@ North Cipher Valley incubates and scales AI-driven consumer solutions and IoT pr
 
 ---
 
-### CiphLy Inc. — CEO & Founder (May 2025–Present)
+### CiphLy Inc. - CEO & Founder (May 2025–Present)
 
 **Powering Your Presence · NFC Marketing & Engagement Platform**
 CiphLy turns physical interactions into lasting, measurable **brand exposure**. Beyond NFC keychains and digital business cards, CiphLy creates durable, interactive touchpoints that continue to work long after events end.
@@ -58,7 +58,7 @@ CiphLy turns physical interactions into lasting, measurable **brand exposure**. 
 
 ---
 
-### CipherAura Pvt. Ltd. — CEO & Founder (Nov 2024–Present)
+### CipherAura Pvt. Ltd. - CEO & Founder (Nov 2024–Present)
 
 **Smart Security, Redefined · AI Body-Cam & Guard Ops Platform**
 CipherAura builds the next generation of AI-powered body cameras and a mobile-first security operations stack: GPS-enabled reporting, incident management, client portals, and intelligent analytics.
@@ -80,37 +80,37 @@ CipherAura builds the next generation of AI-powered body cameras and a mobile-fi
 
 * **3× Presidential Honour Roll**, Cambrian College
 * **Dean’s Honour Roll**, Business Analytics
-* **2nd Prize (2024) — Cambrian R\&D Innovation Challenge** for **GalaGateway**
+* **2nd Prize (2024) - Cambrian R\&D Innovation Challenge** for **GalaGateway**
 * Lead organizer/contributor to **DevFest & student hackathons** in Northern Ontario
 
 ---
 
 ## Featured Projects
 
-* **GalaGateway** — Event platform with integrated payments, authentication, and responsive UI. *(Repo: github.com/hannanmax)*
-* **LeetCode Solver using AI** — Python tooling that leverages OpenAI GPT & Claude-3.5 to automate problem-solving workflows.
-* **AI-Powered Motion Capture** — Deep-learning motion analysis for real-time biomechanics (healthcare & sports).
-* **Cipher Aura (R\&D)** — AI wearable necklace integrating hardware inference and a companion app for smart alerts.
+* **GalaGateway** - Event platform with integrated payments, authentication, and responsive UI. *(Repo: github.com/hannanmax)*
+* **LeetCode Solver using AI** - Python tooling that leverages OpenAI GPT & Claude-3.5 to automate problem-solving workflows.
+* **AI-Powered Motion Capture** - Deep-learning motion analysis for real-time biomechanics (healthcare & sports).
+* **Cipher Aura (R\&D)** - AI wearable necklace integrating hardware inference and a companion app for smart alerts.
 
 ---
 
 ## Selected Experience
 
-* **CEO & Founder — North Cipher Valley Inc.** (2024–Present)
-* **CEO & Founder — CiphLy Inc.** (2025–Present)
-* **CEO & Founder — CipherAura Pvt. Ltd.** (2024–Present)
-* **Organizer — GDG Sudbury** (2023–Present)
-* **President — Cambrian Developer Club** (2023–2024)
-* **Research Assistant & Mobile App Developer — Cambrian R\&D** (2023–2024)
-* **Technology & Sales — Staples Canada** (2023–Present)
+* **CEO & Founder - North Cipher Valley Inc.** (2024–Present)
+* **CEO & Founder - CiphLy Inc.** (2025–Present)
+* **CEO & Founder - CipherAura Pvt. Ltd.** (2024–Present)
+* **Organizer - GDG Sudbury** (2023–Present)
+* **President - Cambrian Developer Club** (2023–2024)
+* **Research Assistant & Mobile App Developer - Cambrian R\&D** (2023–2024)
+* **Technology & Sales - Staples Canada** (2023–Present)
 
 ---
 
 ## Education & Certifications
 
-* **Cambrian College** — Postgrad: Mobile Application Development (4.0 GPA)
-* **Cambrian College** — Postgrad: Business Analytics (4.0 GPA)
-* UKA Tarsadia University — Bachelor: Computer Applications (9.24 GPA)
+* **Cambrian College** - Postgrad: Mobile Application Development (4.0 GPA)
+* **Cambrian College** - Postgrad: Business Analytics (4.0 GPA)
+* **UKA Tarsadia University** - Bachelor: Computer Applications (9.24 GPA)
 * **Certifications:** ML/DL on GCP, IBM Data Science, Stanford ML, HackerRank Java (Basic), and more
 
 ---
