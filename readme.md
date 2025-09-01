@@ -39,5 +39,6 @@ I’m Hannan Max (legally Hannanahmad Shaikh), a tech entrepreneur, full-stack d
 - [Email](mailto:hannanmaxdev@gmail.com)
 - [Twitter](https://twitter.com/hannanmax)
 - [Facebook](https://www.facebook.com/hannanmaxdeveloper/)
+- [GOOGLE DEVELOPER GROUP](https://gdg.community.dev/u/mzw6e6/)
 
 Made with ❤ by Hannan Max.
