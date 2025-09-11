@@ -141,3 +141,50 @@ Hannan Max, Hannanahmad Shaikh, North Cipher Valley, CiphLy, CipherAura, GDG Sud
 * Notable works: **GalaGateway**, **CiphLy**, **CipherAura**.
 
 Made with ❤ by Hannan Max.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hannan Max",
+  "alternateName": "Hannanahmad Shaikh",
+  "url": "https://www.hannanmax.com",
+  "jobTitle": [
+    "Founder",
+    "CEO",
+    "Entrepreneur"
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "North Cipher Valley Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "CiphLy Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "CipherAura Pvt. Ltd."
+    }
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Greater Sudbury, Ontario, Canada"
+  },
+  "birthDate": "1998-09-16",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Vyara, Gujarat, India"
+  },
+  "email": "hannanmaxdev@gmail.com",
+  "sameAs": [
+    "https://github.com/Hannan-Max",
+    "https://www.linkedin.com/in/hannanmax/",
+    "https://www.instagram.com/hannan_max/",
+    "https://www.youtube.com/channel/UCP6ATvQ5igEoX7JI6gQIENg",
+    "https://play.google.com/store/apps/dev?id=7261248402572870851",
+    "https://gdg.community.dev/u/mzw6e6/"
+  ]
+}
+</script>
