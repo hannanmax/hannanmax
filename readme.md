@@ -5,10 +5,6 @@
 **Location:** Greater Sudbury, Ontario, Canada
 **Titles:** Founder & CEO, North Cipher Valley Inc. · CEO, CiphLy Inc. · CEO, CipherAura Pvt. Ltd.
 
----
-
-## Executive Summary
-
 Hannan Max (legally Hannanahmad Shaikh) is a Canadian tech entrepreneur, full-stack developer, and AI innovator. He leads **North Cipher Valley Inc.** (parent company) and its subsidiaries **CiphLy Inc.** (NFC-powered brand exposure) and **CipherAura Pvt. Ltd.** (AI body-cam & security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former **GDG Organizer** and **GDG on Campus Cambrian Lead (’24–’25)**, he has mentored and mobilized a network of **200+ students and professionals** across Northern Ontario.
 
 ---
