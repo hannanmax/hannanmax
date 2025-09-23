@@ -1,11 +1,13 @@
 # Hannan Max (Hannanahmad Shaikh)
 
+🚀 **Tech Entrepreneur**
+Hannan Max (legally Hannanahmad Shaikh) is a Tech entrepreneur, full-stack developer, and AI innovator. He leads **North Cipher Valley Inc.** (parent company) and its subsidiaries **CiphLy Inc.** (NFC-powered brand exposure) and **CipherAura Pvt. Ltd.** (AI body-cam & security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former **GDG Organizer** and **GDG on Campus Cambrian Lead (’24–’25)**, he has mentored and mobilized a network of **200+ students and professionals** across Northern Ontario.
+
+---
 **Also known as:** Hannanahmad Shaikh
 **Pronouns:** He/Him
 **Location:** Greater Sudbury, Ontario, Canada
-**Titles:** Founder & CEO, North Cipher Valley Inc. · CEO, CiphLy Inc. · CEO, CipherAura Pvt. Ltd.
-
-Hannan Max (legally Hannanahmad Shaikh) is a Canadian tech entrepreneur, full-stack developer, and AI innovator. He leads **North Cipher Valley Inc.** (parent company) and its subsidiaries **CiphLy Inc.** (NFC-powered brand exposure) and **CipherAura Pvt. Ltd.** (AI body-cam & security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former **GDG Organizer** and **GDG on Campus Cambrian Lead (’24–’25)**, he has mentored and mobilized a network of **200+ students and professionals** across Northern Ontario.
+**Titles:** Tech Entrepreneur, Founder, CEO, North Cipher Valley Inc. · CEO, CiphLy Inc. · CEO, CipherAura Pvt. Ltd.
 
 ---
 
@@ -145,6 +147,7 @@ Made with ❤ by Hannan Max.
   "name": "Hannan Max",
   "alternateName": "Hannanahmad Shaikh",
   "url": "https://www.hannanmax.com",
+  "description": "Hannan Max (legally Hannanahmad Shaikh) is a Tech entrepreneur, full-stack developer, and AI innovator. He leads **North Cipher Valley Inc.** (parent company) and its subsidiaries **CiphLy Inc.** (NFC-powered brand exposure) and **CipherAura Pvt. Ltd.** (AI body-cam & security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former **GDG Organizer** and **GDG on Campus Cambrian Lead (’24–’25)**, he has mentored and mobilized a network of **200+ students and professionals** across Northern Ontario.",
   "jobTitle": [
     "Founder",
     "CEO",
