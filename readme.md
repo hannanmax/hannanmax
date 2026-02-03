@@ -8,10 +8,14 @@
 Hannan Max (legally Hannanahmad Shaikh) is a Tech entrepreneur, full-stack developer, and AI innovator. He leads **North Cipher Valley Inc.** (parent company) and its subsidiaries **CiphLy Inc.** (NFC-powered brand exposure) and **CipherAura Pvt. Ltd.** (AI body-cam & security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former **GDG Organizer** and **GDG on Campus Cambrian Lead (’24–’25)**, he has mentored and mobilized a network of **200+ students and professionals** across Northern Ontario.
 
 ---
-**Also known as:** Hannanahmad Shaikh
+**Full Name:** Hannanahmad Shaikh
+**Known As:** Hannan Max
 **Pronouns:** He/Him
+**Born:** September 16, 1998 · Vyara, Gujarat, India
+**Nationality:** Canadian
 **Location:** Greater Sudbury, Ontario, Canada
-**Titles:** Tech Entrepreneur, Founder, CEO, North Cipher Valley Inc. · CEO, CiphLy Inc. · CEO, CipherAura Pvt. Ltd.
+**Occupation:** Tech Entrepreneur, Full-Stack Developer, AI Innovator
+**Titles:** Founder & CEO, North Cipher Valley Inc. · Founder & CEO, CiphLy Inc. · Founder & CEO, CipherAura Pvt. Ltd.
 
 ---
 
@@ -119,75 +123,209 @@ CipherAura builds the next generation of AI-powered body cameras and a mobile-fi
 
 ## Profiles & Media
 
+* **Website:** [https://hannanmax.com](https://hannanmax.com)
 * **LinkedIn:** [https://www.linkedin.com/in/hannanmax/](https://www.linkedin.com/in/hannanmax/)
+* **GitHub:** [https://github.com/hannanmax](https://github.com/hannanmax)
+* **X (Twitter):** [https://x.com/hannanmax](https://x.com/hannanmax)
 * **Instagram:** [https://www.instagram.com/hannan\_max/](https://www.instagram.com/hannan_max/)
 * **YouTube:** [https://www.youtube.com/channel/UCP6ATvQ5igEoX7JI6gQIENg](https://www.youtube.com/channel/UCP6ATvQ5igEoX7JI6gQIENg)
 * **Google Play (Developer):** [https://play.google.com/store/apps/dev?id=7261248402572870851](https://play.google.com/store/apps/dev?id=7261248402572870851)
+* **Crunchbase:** [https://www.crunchbase.com/person/hannan-max](https://www.crunchbase.com/person/hannan-max)
 * **GDG Profile:** [https://gdg.community.dev/u/mzw6e6/](https://gdg.community.dev/u/mzw6e6/)
-* **Email:** mailto\:hannanmaxdev\@gmail.com
+* **Email:** hannanmaxdev@gmail.com
 
 ---
 
 ## SEO Keywords
 
-Hannan Max, Hannanahmad Shaikh, North Cipher Valley, CiphLy, CipherAura, GDG Sudbury, Full-Stack Developer, Flutter Developer, AI Developer, Generative AI, NFC keychains, BioLink, AI body camera, Sudbury tech, Canadian entrepreneur.
+Hannan Max, Hannanahmad Shaikh, Hannan Max entrepreneur, Hannanahmad Shaikh CEO, North Cipher Valley Inc., CiphLy Inc., CipherAura Pvt. Ltd., GDG Sudbury, GDG on Campus Cambrian, Full-Stack Developer Canada, Flutter Developer Sudbury, AI Developer Ontario, Generative AI entrepreneur, NFC keychains Canada, BioLink platform, AI body camera security, Sudbury tech entrepreneur, Canadian tech entrepreneur, Cambrian College alumni, mobile app developer Canada, startup founder Ontario, tech CEO Canada.
 
 ---
 
 ## Notes for Knowledge Panels
 
-* Use both names: **“Hannan Max”** (public) and **“Hannanahmad Shaikh”** (legal).
-* Associate companies: **North Cipher Valley Inc.**, **CiphLy Inc.**, **CipherAura Pvt. Ltd.**
-* Roles: **Founder/CEO**, **GDG Organizer**, **Community Builder**.
-* Location: **Greater Sudbury, Ontario, Canada**.
-* Notable works: **GalaGateway**, **CiphLy**, **CipherAura**.
+* **Primary Name:** Hannan Max
+* **Legal Name:** Hannanahmad Shaikh
+* **Born:** September 16, 1998 · Vyara, Gujarat, India
+* **Nationality:** Canadian
+* **Location:** Greater Sudbury, Ontario, Canada
+* **Occupation:** Tech Entrepreneur, Full-Stack Developer, AI Innovator
+* **Companies Founded:** North Cipher Valley Inc. (2024), CiphLy Inc. (2025), CipherAura Pvt. Ltd. (2024)
+* **Education:** Cambrian College (Mobile App Development, Business Analytics), UKA Tarsadia University (BCA)
+* **Community Roles:** GDG Sudbury Organizer, GDG on Campus Cambrian Lead (2024-2025)
+* **Notable Works:** GalaGateway, CiphLy, CipherAura, HannanMaxIG
+* **Awards:** 3x Presidential Honour Roll, Dean's Honour Roll, 2nd Prize Cambrian R&D Innovation Challenge (2024)
 
 Made with ❤ by Hannan Max.
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Hannan Max",
-  "alternateName": "Hannanahmad Shaikh",
-  "url": "https://www.hannanmax.com",
-  "description": "Hannan Max (legally Hannanahmad Shaikh) is a Tech entrepreneur, full-stack developer, and AI innovator. He leads **North Cipher Valley Inc.** (parent company) and its subsidiaries **CiphLy Inc.** (NFC-powered brand exposure) and **CipherAura Pvt. Ltd.** (AI body-cam & security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former **GDG Organizer** and **GDG on Campus Cambrian Lead (’24–’25)**, he has mentored and mobilized a network of **200+ students and professionals** across Northern Ontario.",
-  "jobTitle": [
-    "Founder",
-    "CEO",
-    "Entrepreneur"
-  ],
-  "worksFor": [
+  "@graph": [
     {
-      "@type": "Organization",
-      "name": "North Cipher Valley Inc."
+      "@type": "Person",
+      "@id": "https://hannanmax.com/#person",
+      "name": "Hannan Max",
+      "givenName": "Hannanahmad",
+      "familyName": "Shaikh",
+      "alternateName": ["Hannanahmad Shaikh", "Hannan Max"],
+      "url": "https://hannanmax.com",
+      "image": "https://github.com/hannanmax/hannanmax/raw/main/Hannan%20Max%20Profile%20Picture.jpg",
+      "description": "Hannan Max (legally Hannanahmad Shaikh) is a Canadian tech entrepreneur, full-stack developer, and AI innovator. He is the Founder and CEO of North Cipher Valley Inc. (parent company) and its subsidiaries CiphLy Inc. (NFC-powered brand exposure) and CipherAura Pvt. Ltd. (AI body-cam and security operations). His work spans AI-driven software, cross-platform mobile apps, IoT devices, and cloud architectures. A community builder and former GDG Organizer and GDG on Campus Cambrian Lead (2024-2025), he has mentored and mobilized a network of 200+ students and professionals across Northern Ontario.",
+      "gender": "Male",
+      "nationality": {
+        "@type": "Country",
+        "name": "Canada"
+      },
+      "jobTitle": ["Founder", "CEO", "Tech Entrepreneur", "Full-Stack Developer", "AI Innovator"],
+      "knowsAbout": [
+        "Software Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Mobile Application Development",
+        "Web Development",
+        "Cloud Computing",
+        "Entrepreneurship",
+        "NFC Technology",
+        "Internet of Things",
+        "Flutter",
+        "React",
+        "Node.js",
+        "Firebase",
+        "Google Cloud Platform",
+        "AWS"
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Cambrian College",
+          "location": "Sudbury, Ontario, Canada"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "UKA Tarsadia University",
+          "location": "Gujarat, India"
+        }
+      ],
+      "award": [
+        "3x Presidential Honour Roll - Cambrian College",
+        "Dean's Honour Roll - Business Analytics",
+        "2nd Prize (2024) - Cambrian R&D Innovation Challenge for GalaGateway"
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "Google Developer Groups (GDG) Sudbury",
+          "url": "https://gdg.community.dev/gdg-sudbury/"
+        }
+      ],
+      "founder": [
+        {"@id": "https://hannanmax.com/#northciphervalley"},
+        {"@id": "https://hannanmax.com/#ciPhly"},
+        {"@id": "https://hannanmax.com/#cipheraura"}
+      ],
+      "worksFor": [
+        {"@id": "https://hannanmax.com/#northciphervalley"},
+        {"@id": "https://hannanmax.com/#ciPhly"},
+        {"@id": "https://hannanmax.com/#cipheraura"}
+      ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Greater Sudbury, Ontario, Canada",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Greater Sudbury",
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada"
+        }
+      },
+      "birthDate": "1998-09-16",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Vyara, Gujarat, India",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Vyara",
+          "addressRegion": "Gujarat",
+          "addressCountry": "India"
+        }
+      },
+      "email": "hannanmaxdev@gmail.com",
+      "sameAs": [
+        "https://hannanmax.com",
+        "https://github.com/hannanmax",
+        "https://www.linkedin.com/in/hannanmax/",
+        "https://x.com/hannanmax",
+        "https://twitter.com/hannanmax",
+        "https://www.instagram.com/hannan_max/",
+        "https://www.youtube.com/channel/UCP6ATvQ5igEoX7JI6gQIENg",
+        "https://play.google.com/store/apps/dev?id=7261248402572870851",
+        "https://www.crunchbase.com/person/hannan-max",
+        "https://gdg.community.dev/u/mzw6e6/",
+        "https://g.dev/hannanmax"
+      ]
     },
     {
       "@type": "Organization",
-      "name": "CiphLy Inc."
+      "@id": "https://hannanmax.com/#northciphervalley",
+      "name": "North Cipher Valley Inc.",
+      "alternateName": "North Cipher Valley",
+      "description": "Parent company and innovation hub for AI, mobile, and smart tech. Incubates and scales AI-driven consumer solutions and IoT products.",
+      "url": "https://northciphervalley.com",
+      "foundingDate": "2024-09",
+      "founder": {"@id": "https://hannanmax.com/#person"},
+      "employee": {"@id": "https://hannanmax.com/#person"},
+      "location": {
+        "@type": "Place",
+        "name": "Greater Sudbury, Ontario, Canada"
+      },
+      "areaServed": "Canada",
+      "knowsAbout": ["Artificial Intelligence", "Mobile Development", "IoT", "Smart Technology"]
     },
     {
       "@type": "Organization",
-      "name": "CipherAura Pvt. Ltd."
+      "@id": "https://hannanmax.com/#ciPhly",
+      "name": "CiphLy Inc.",
+      "alternateName": "CiphLy",
+      "description": "NFC-powered brand exposure and marketing platform. Turns physical interactions into lasting, measurable brand engagement through NFC keychains, digital business cards, and BioLink pages.",
+      "url": "https://ciphly.com",
+      "foundingDate": "2025-05",
+      "founder": {"@id": "https://hannanmax.com/#person"},
+      "employee": {"@id": "https://hannanmax.com/#person"},
+      "parentOrganization": {"@id": "https://hannanmax.com/#northciphervalley"},
+      "slogan": "Powering your presence.",
+      "location": {
+        "@type": "Place",
+        "name": "Greater Sudbury, Ontario, Canada"
+      },
+      "knowsAbout": ["NFC Technology", "Digital Marketing", "Brand Engagement"]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://hannanmax.com/#cipheraura",
+      "name": "CipherAura Pvt. Ltd.",
+      "alternateName": "CipherAura",
+      "description": "AI body-cam and security operations platform. Builds next-generation AI-powered body cameras and mobile-first security operations stack with GPS-enabled reporting, incident management, and intelligent analytics.",
+      "url": "https://cipheraura.com",
+      "foundingDate": "2024-11",
+      "founder": {"@id": "https://hannanmax.com/#person"},
+      "employee": {"@id": "https://hannanmax.com/#person"},
+      "parentOrganization": {"@id": "https://hannanmax.com/#northciphervalley"},
+      "slogan": "Smart Security, Redefined.",
+      "location": {
+        "@type": "Place",
+        "name": "Greater Sudbury, Ontario, Canada"
+      },
+      "knowsAbout": ["Artificial Intelligence", "Security Systems", "Body Cameras", "Computer Vision"]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "GalaGateway",
+      "description": "Event platform with integrated payments, authentication, and responsive UI.",
+      "author": {"@id": "https://hannanmax.com/#person"},
+      "applicationCategory": "Event Management",
+      "url": "https://github.com/hannanmax"
     }
-  ],
-  "homeLocation": {
-    "@type": "Place",
-    "name": "Greater Sudbury, Ontario, Canada"
-  },
-  "birthDate": "1998-09-16",
-  "birthPlace": {
-    "@type": "Place",
-    "name": "Vyara, Gujarat, India"
-  },
-  "email": "hannanmaxdev@gmail.com",
-  "sameAs": [
-    "https://github.com/Hannan-Max",
-    "https://www.linkedin.com/in/hannanmax/",
-    "https://www.instagram.com/hannan_max/",
-    "https://www.youtube.com/channel/UCP6ATvQ5igEoX7JI6gQIENg",
-    "https://play.google.com/store/apps/dev?id=7261248402572870851",
-    "https://gdg.community.dev/u/mzw6e6/"
   ]
 }
 </script>
