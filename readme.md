@@ -1,4 +1,4 @@
-# Hannan Max
+# Hannan Max ( Hannanahmad Shaikh )
 
 **CEO & Founder @ [North Cipher Valley Inc.](https://northciphervalley.com) | Full-Stack Developer | AI Innovator | GDG Organizer**
 
