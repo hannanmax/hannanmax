@@ -1,8 +1,8 @@
 # Hannan Max ( Hannanahmad Shaikh )
 
-**Software Engineer @ [Accion Labs](https://www.accionlabs.com) · SPX Technologies/Genfare | CEO & Founder @ [North Cipher Valley Inc.](https://northciphervalley.com) | Full-Stack Developer | AI Innovator | GDG Organizer**
+**Software Engineer @ [SPX Technologies](https://www.spx.com) | CEO & Founder @ [North Cipher Valley Inc.](https://northciphervalley.com) | Full-Stack Developer | AI Innovator | GDG Organizer**
 
-Canadian software engineer and tech entrepreneur. Building fare collection platforms at SPX Technologies/Genfare (via Accion Labs) while leading a tech ecosystem with 6 subsidiaries, 7 employees, and 30+ partners across AI, IoT, and mobile development.
+Canadian software engineer and tech entrepreneur. Building fare collection platforms at SPX Technologies while leading a tech ecosystem with 6 subsidiaries, 7 employees, and 30+ partners across AI, IoT, and mobile development.
 
 > Legally known as **Hannanahmad Shaikh** | Based in Greater Sudbury, Ontario, Canada
 
@@ -87,7 +87,7 @@ DevOps        Docker, Kubernetes, GitHub Actions, CI/CD, Railway, Vercel
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| Software Engineer | Accion Labs Canada Inc. (SPX Technologies/Genfare) | Jul 2026 - Present |
+| Software Engineer | SPX Technologies | Jul 2026 - Present |
 | CEO & Founder | North Cipher Valley Inc. | Sep 2024 - Present |
 | CEO & Founder | CiphLy Inc. | May 2025 - Present |
 | CEO & Founder | CipherAura | Nov 2024 - Present |
