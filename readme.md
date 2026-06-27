@@ -1,8 +1,8 @@
 # Hannan Max ( Hannanahmad Shaikh )
 
-**CEO & Founder @ [North Cipher Valley Inc.](https://northciphervalley.com) | Full-Stack Developer | AI Innovator | GDG Organizer**
+**Software Engineer @ [Accion Labs](https://www.accionlabs.com) · SPX Technologies/Genfare | CEO & Founder @ [North Cipher Valley Inc.](https://northciphervalley.com) | Full-Stack Developer | AI Innovator | GDG Organizer**
 
-Canadian tech entrepreneur building AI-driven consumer solutions, NFC marketing platforms, and smart security hardware. Leading a tech ecosystem with 6 subsidiaries, 7 employees, and 30+ partners across AI, IoT, and mobile development.
+Canadian software engineer and tech entrepreneur. Building fare collection platforms at SPX Technologies/Genfare (via Accion Labs) while leading a tech ecosystem with 6 subsidiaries, 7 employees, and 30+ partners across AI, IoT, and mobile development.
 
 > Legally known as **Hannanahmad Shaikh** | Based in Greater Sudbury, Ontario, Canada
 
@@ -87,11 +87,12 @@ DevOps        Docker, Kubernetes, GitHub Actions, CI/CD, Railway, Vercel
 
 | Role | Organization | Period |
 |------|-------------|--------|
+| Software Engineer | Accion Labs Canada Inc. (SPX Technologies/Genfare) | Jul 2026 - Present |
 | CEO & Founder | North Cipher Valley Inc. | Sep 2024 - Present |
 | CEO & Founder | CiphLy Inc. | May 2025 - Present |
 | CEO & Founder | CipherAura | Nov 2024 - Present |
 | Organizer | GDG Sudbury | Mar 2023 - Present |
-| Sales Associate | Staples Canada | Sep 2023 - Present |
+| Sales Associate | Staples Canada | Sep 2023 - Jun 2026 |
 | Research Assistant & Mobile Dev | Cambrian College R&D | Jan 2023 - Oct 2024 |
 | AI Researcher | ThreeWise AI | May 2024 - Aug 2024 |
 | Chapter Lead | Canada Learning Code Sudbury | Feb 2024 - May 2024 |
@@ -136,7 +137,7 @@ Stanford ML (Andrew Ng) · Deeplearning.AI Deep Learning · Google ML on GCP · 
 [![Google Dev](https://img.shields.io/badge/Google_Dev-hannanmax-4285F4?style=flat-square&logo=google)](https://g.dev/hannanmax)
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-Hannan_Max-0288D1?style=flat-square)](https://www.crunchbase.com/person/hannan-max)
 [![Google Play](https://img.shields.io/badge/Google_Play-Developer-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/dev?id=7261248402572870851)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCP6ATvQ5igEoX7JI6gQIENg)
+[![YouTube](https://img.shields.io/badge/YouTube-@hannan--max-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@hannan-max)
 
 **Email:** hannanmaxdev@gmail.com · hannan@hannanmax.com
 
