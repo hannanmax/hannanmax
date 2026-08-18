@@ -14,6 +14,7 @@ Canadian software engineer and tech entrepreneur based in Greater Sudbury, Ontar
 - **[Cambrian College](https://cambriancollege.ca/news/2024/09/cambrian-college-graduates-develop-mobile-app-just-for-college-alumni)** — Co-founder of Alpha Nova Co., developer of Cambrian Alumni app (Sep 2024)
 - **[AI in Action Podcast](https://podcasts.apple.com/gy/podcast/ai-and-software-development-insights-from-rising/id1763550637?i=1000684745452)** — Guest speaker, Season 1 Episode 21: AI and Software Development (Jan 2025)
 - **Google Knowledge Graph** — Recognized entity `/g/11rmv6krsx`
+- **Wikidata** — Entity [Q141114397](https://www.wikidata.org/wiki/Q141114397)
 
 ---
 
@@ -80,6 +81,7 @@ DevOps        Docker, Kubernetes, GitHub Actions, CI/CD, Railway, Vercel
 ### Achievements
 
 - **Google Knowledge Graph** — Organic entity recognition `/g/11rmv6krsx` after 12 years of building digital footprint
+- **Wikidata** — Entity [Q141114397](https://www.wikidata.org/wiki/Q141114397)
 - **Cursor Hackathon Sudbury 2026 Co-organizer** — 200+ participants, Laurentian University, sponsored by Cursor, North Cipher Valley Inc., TiDB, Apify
 - **Venture North Pitch 2025 Finalist** — Lead developer on E.X.I.T. Life Ready (NORCAT)
 - **DevFest 2025 CTF 2nd Place** — "Hack the Site" challenge at GDG Cloud Toronto (600+ attendees)
