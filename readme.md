@@ -2,9 +2,18 @@
 
 **Software Engineer @ [SPX Technologies](https://www.spx.com) | CEO & Founder @ [North Cipher Valley Inc.](https://northciphervalley.com) | Full-Stack Developer | AI Innovator | GDG Organizer**
 
-Canadian software engineer and tech entrepreneur. Building fare collection platforms at SPX Technologies while leading a tech ecosystem with 6 subsidiaries, 7 employees, and 30+ partners across AI, IoT, and mobile development.
+Canadian software engineer and tech entrepreneur based in Greater Sudbury, Ontario. Building fare collection platforms at SPX Technologies (Genfare division) while leading a tech ecosystem with 6 subsidiaries, 7 employees, and 30+ partners across AI, IoT, and mobile development.
 
-> Legally known as **Hannanahmad Shaikh** | Based in Greater Sudbury, Ontario, Canada
+> Legally known as **Hannanahmad Shaikh** · Also known as **Hannan Ahmad Shaikh** · Born September 16, 1998 · Vyara, Gujarat, India · Canadian Citizen
+
+---
+
+### Featured In
+
+- **[The Sudbury Star](https://www.thesudburystar.com/news/local-news/sudbury-session-to-tackle-ai-and-other-technology-questions)** — Organizer of DevFest Sudbury 2023, hosted at Cambrian College eDome (Postmedia, Nov 2023)
+- **[Cambrian College](https://cambriancollege.ca/news/2024/09/cambrian-college-graduates-develop-mobile-app-just-for-college-alumni)** — Co-founder of Alpha Nova Co., developer of Cambrian Alumni app (Sep 2024)
+- **[AI in Action Podcast](https://podcasts.apple.com/gy/podcast/ai-and-software-development-insights-from-rising/id1763550637?i=1000684745452)** — Guest speaker, Season 1 Episode 21: AI and Software Development (Jan 2025)
+- **Google Knowledge Graph** — Recognized entity `/g/11rmv6krsx`
 
 ---
 
@@ -70,7 +79,8 @@ DevOps        Docker, Kubernetes, GitHub Actions, CI/CD, Railway, Vercel
 
 ### Achievements
 
-- **Google Knowledge Graph** — Organic recognition after 12 years of building digital footprint
+- **Google Knowledge Graph** — Organic entity recognition `/g/11rmv6krsx` after 12 years of building digital footprint
+- **Cursor Hackathon Sudbury 2026 Co-organizer** — 200+ participants, Laurentian University, sponsored by Cursor, North Cipher Valley Inc., TiDB, Apify
 - **Venture North Pitch 2025 Finalist** — Lead developer on E.X.I.T. Life Ready (NORCAT)
 - **DevFest 2025 CTF 2nd Place** — "Hack the Site" challenge at GDG Cloud Toronto (600+ attendees)
 - **3x Presidential Honour Roll** — Cambrian College
@@ -122,6 +132,7 @@ Stanford ML (Andrew Ng) · Deeplearning.AI Deep Learning · Google ML on GCP · 
 
 - **GDG Sudbury Organizer** (2023-Present) — DevFest, Build with AI, TechSafe & Healthy, Silicon Crater Tech Meet
 - **GDG on Campus Cambrian Lead** (2024-2025) — Mentored 200+ students and professionals
+- **Cursor Hackathon Sudbury 2026 Co-organizer** — Built with Athif Shaffy, Cheick Ismael Maiga, Dean Lupini, and team
 - **Jack.org Social Media Manager** (2023-Present) — Mental health advocacy
 - **Google Cloud Next 2025** — Attended in Las Vegas
 - **Speaker** — TechSafe & Healthy 2026 (MedGemma, Gemini CLI sessions)
@@ -133,7 +144,7 @@ Stanford ML (Andrew Ng) · Deeplearning.AI Deep Learning · Google ML on GCP · 
 [![Website](https://img.shields.io/badge/Website-hannanmax.com-blue?style=flat-square)](https://hannanmax.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hannanmax-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hannanmax/)
 [![X](https://img.shields.io/badge/X-@hannanmax-000000?style=flat-square&logo=x)](https://x.com/hannanmax)
-[![Instagram](https://img.shields.io/badge/Instagram-hannanmax__-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/hannanmax_/)
+[![Instagram](https://img.shields.io/badge/Instagram-hannan__max-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/hannan_max/)
 [![Google Dev](https://img.shields.io/badge/Google_Dev-hannanmax-4285F4?style=flat-square&logo=google)](https://g.dev/hannanmax)
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-Hannan_Max-0288D1?style=flat-square)](https://www.crunchbase.com/person/hannan-max)
 [![Google Play](https://img.shields.io/badge/Google_Play-Developer-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/dev?id=7261248402572870851)
@@ -143,4 +154,4 @@ Stanford ML (Andrew Ng) · Deeplearning.AI Deep Learning · Google ML on GCP · 
 
 ---
 
-<sub>Hannan Max (legally Hannanahmad Shaikh) · Born September 16, 1998 · Vyara, Gujarat, India · Canadian Citizen · Greater Sudbury, ON, Canada</sub>
+<sub>Hannan Max (legally Hannanahmad Shaikh, also known as Hannan Ahmad Shaikh) · Born September 16, 1998 · Vyara, Gujarat, India · Canadian Citizen · Greater Sudbury, ON, Canada</sub>
